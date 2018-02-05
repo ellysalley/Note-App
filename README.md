@@ -1,0 +1,1 @@
+Very simple note app for Lambda School front-end project
